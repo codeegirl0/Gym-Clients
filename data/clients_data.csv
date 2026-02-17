@@ -1,0 +1,124 @@
+ID,Gender,City,Satisfaction,Level,Children,Sessions_Month,Salary_ke,Distance_km
+1,Male,PAR,Very Satisfied,Expert,20,30,45.5,5.2
+2,Female,LYS,Neutral,,0,4,28.3,12.8
+3,,Marseille,Satisfied,Intermediate,1,8,35,2.5
+4,Male,LIL,Unsatisfied,Beginner,,2,22.15,15
+5,Female,Bordeaux,Very Satisfied,Expert,0,45,62.4,8.1
+6,Female,Lyon,Satisfied,Intermediate,2,10,31.2,4.4
+7,Male,Paris,Neutral,Beginner,1,5,29.8,18.2
+8,,Toulouse,Very Satisfied,Expert,,15,55,6.7
+9,Female,Nantes,Unsatisfied,Beginner,0,3,24.5,22.1
+10,Female,Paris,Satisfied,Intermediate,1,9,38.9,3.2
+11,Female,Lyon,Very Satisfied,Expert,2,14,48,7.5
+12,Male,Marseille,Neutral,Intermediate,1,7,33.4,10.1
+13,Female,LYS,Satisfied,Beginner,3,6,27.6,5.9
+14,Male,Marseille,Neutral,Intermediate,1,7,33.4,10.1
+15,Male,Marseille,Neutral,Intermediate,1,35,33.4,10.1
+16,Male,Marseille,Neutral,Intermediate,1,7,33.4,10.1
+17,Female,Nantes,Very Satisfied,Expert,0,22,58.5,9
+18,Female,Marseille,Unsatisfied,Beginner,2,4,26.3,14.5
+19,Female,LYS,Satisfied,Intermediate,1,8,36.7,6.3
+20,Male,Lille,Very Satisfied,Expert,3,16,52.8,11.2
+21,Female,Bordeaux,Neutral,Intermediate,0,7,31.5,8.7
+22,Male,Paris,Satisfied,Beginner,2,5,29,3.1
+23,Female,Toulouse,Very Satisfied,Expert,1,14,60,13.4
+24,Male,Marseille,Unsatisfied,Beginner,4,2,23.4,19.8
+25,Male,Nantes,Satisfied,Intermediate,0,10,40.2,5.5
+26,Female,Lyon,Very Satisfied,Expert,2,18,54.1,2.9
+27,Male,Paris,Neutral,Beginner,1,6,28.9,16
+28,Female,Lille,Satisfied,Intermediate,30,9,34.5,7.1
+29,Male,Bordeaux,Very Unsatisfied,Beginner,0,1,19.8,25.6
+30,Female,Marseille,Very Satisfied,Expert,1,25,75,4
+31,Male,Toulouse,Satisfied,Intermediate,2,12,43.2,6.8
+32,Female,Paris,Neutral,Beginner,0,4,26.5,11.5
+33,Male,Lyon,Satisfied,Intermediate,1,11,39.4,5
+34,Female,Lille,Very Satisfied,Expert,2,13,49.2,8.3
+35,Male,Nantes,Unsatisfied,Beginner,1,3,24.1,21.2
+36,Female,Bordeaux,Satisfied,Intermediate,3,10,37.8,9.6
+37,Male,Paris,Very Satisfied,Expert,0,20,66.3,1.5
+38,Female,Marseille,Neutral,Beginner,2,5,30.1,14.1
+39,Male,Lyon,Satisfied,Intermediate,1,8,33.5,7.8
+40,Male,Toulouse,Very Satisfied,Expert,0,16,59,10.4
+41,Female,Lille,Unsatisfied,Beginner,4,2,22.8,18.9
+42,Male,NTE,Satisfied,Intermediate,1,7,35.6,6.1
+43,Female,Paris,Very Satisfied,Expert,200,14,51.4,3.7
+44,Male,Marseille,Neutral,Beginner,0,4,27.2,12.3
+45,Female,BX,Satisfied,Intermediate,1,9,36.1,8
+46,Male,Lyon,Very Unsatisfied,Beginner,3,1,18.5,28.1
+47,Male,Toulouse,Very Satisfied,Expert,0,21,68,5.4
+48,Female,Lille,Satisfied,Intermediate,2,10,39.9,4.6
+49,Male,PAR,Neutral,Beginner,1,5,30.5,15.3
+50,Female,Marseille,Very Satisfied,Expert,0,19,61.2,2.2
+51,Male,Lyon,Satisfied,Intermediate,1,7,34.2,6.5
+52,Female,Paris,Very Satisfied,Expert,2,15,52.1,3.9
+53,Female,Lille,Neutral,Beginner,0,4,25.8,11.2
+54,Female,Marseille,Satisfied,Intermediate,1,9,37.4,5.8
+55,Male,Bordeaux,Unsatisfied,Beginner,2,3,23.9,14.6
+56,Male,Toulouse,Very Satisfied,Expert,1,22,64.3,2.1
+57,Female,Nantes,Satisfied,Intermediate,0,10,39.1,7.4
+58,Female,Lyon,Neutral,,3,5,28.5,9.2
+59,Male,Paris,Satisfied,Intermediate,2,8,41.2,4.7
+60,Female,Marseille,Very Satisfied,Expert,0,18,57.6,1.9
+61,Female,Lille,Unsatisfied,Beginner,1,2,21.4,20.5
+62,Male,Bordeaux,Satisfied,,2,11,36.8,8.3
+63,Female,Toulouse,Very Satisfied,Expert,1,24,72.9,3.5
+64,Male,Paris,Neutral,Intermediate,0,6,32.5,13.1
+65,Female,Paris,Satisfied,Beginner,2,5,27.1,10.4
+66,Female,Lyon,Very Unsatisfied,Beginner,1,1,19.2,25.3
+67,Male,Marseille,Satisfied,Intermediate,3,9,38.5,6.2
+68,Female,Lille,Very Satisfied,Expert,2,20,60.1,4.1
+69,Male,Bordeaux,Neutral,Beginner,0,4,26.4,15.8
+70,Female,Toulouse,Satisfied,Intermediate,1,7,34.9,7.9
+71,Male,Paris,Very Satisfied,Expert,2,16,55.3,5
+72,Female,Lyon,Unsatisfied,Beginner,0,3,22.7,18.4
+73,Female,Nantes,Satisfied,Intermediate,1,10,40.5,2.8
+74,Male,Marseille,Very Satisfied,Expert,3,19,63.2,6.9
+75,Female,Lille,Neutral,Beginner,2,5,29.3,11.7
+76,Male,Bordeaux,Satisfied,Intermediate,0,8,33.7,9.1
+77,Female,Toulouse,Very Satisfied,Expert,1,21,58.4,4.3
+78,Female,Paris,Satisfied,Intermediate,2,11,42.8,3.6
+79,Male,Lyon,Unsatisfied,Beginner,1,2,20.9,22.1
+80,Female,Marseille,Very Satisfied,Expert,0,25,78.2,1.5
+81,Male,Lille,Satisfied,Intermediate,3,12,44.1,7.2
+82,Female,Bordeaux,Neutral,Beginner,2,4,27.6,13.9
+83,Male,Toulouse,Satisfied,Intermediate,1,9,36.2,5.5
+84,Female,Nantes,Very Satisfied,Expert,0,17,59.5,8.2
+85,Female,Paris,Unsatisfied,Beginner,4,2,21.8,16.4
+86,Male,Lyon,Satisfied,Intermediate,2,10,38.4,4.9
+87,Female,Marseille,Very Satisfied,Expert,1,23,67.1,3.1
+88,Male,Lille,Neutral,Beginner,0,6,29.9,10.8
+89,Female,Bordeaux,Satisfied,Intermediate,3,8,35.4,6.7
+90,Female,Toulouse,Very Satisfied,Expert,1,14,54.2,12.1
+91,Male,Nantes,Unsatisfied,Beginner,2,3,24.7,19.3
+92,Female,Paris,Satisfied,Intermediate,0,11,43.5,2.4
+93,Male,Lyon,Very Satisfied,Expert,2,20,61.8,5.6
+94,Female,Marseille,Neutral,Beginner,1,5,28.2,14.2
+95,Female,Lille,Satisfied,Intermediate,3,9,37.9,8.5
+96,Male,Bordeaux,Very Satisfied,Expert,0,22,66.5,4.8
+97,Female,Toulouse,Unsatisfied,Beginner,2,2,22.3,21.7
+98,Male,Nantes,Satisfied,Intermediate,1,12,41,7
+99,Female,Paris,Very Satisfied,Expert,0,18,59.2,1.8
+100,Female,Lyon,Neutral,Beginner,1,4,26.7,11.9
+101,Male,Marseille,Satisfied,Intermediate,2,10,39.6,5.3
+102,Female,Lille,Very Satisfied,Expert,1,21,63.4,3.4
+103,Male,Bordeaux,Unsatisfied,Beginner,0,3,23.5,17.2
+104,Female,Toulouse,Satisfied,Intermediate,3,8,34.8,9.8
+105,Female,Nantes,Very Satisfied,Expert,2,15,55.1,6.4
+106,Male,Paris,Neutral,Beginner,1,5,30.2,12.6
+107,Female,Lyon,Satisfied,Intermediate,0,9,38.1,4.5
+108,Male,Marseille,Very Satisfied,Expert,2,24,74.5,2.7
+109,Female,Lille,Unsatisfied,Beginner,4,2,20.1,24.5
+110,Male,Bordeaux,Satisfied,Intermediate,1,11,40.8,7.7
+111,Male,Toulouse,Very Satisfied,Expert,0,19,62.1,5.9
+112,Female,Nantes,Neutral,Beginner,2,4,27.4,13.5
+113,Male,Paris,Satisfied,Intermediate,1,10,42.3,3.8
+114,Female,Lyon,Very Satisfied,Expert,2,17,58.9,6.1
+115,Male,Marseille,Unsatisfied,Beginner,3,3,24.6,18.1
+116,Male,Lille,Satisfied,Intermediate,1,8,35.7,9.4
+117,Female,Bordeaux,Very Satisfied,Expert,0,26,81.3,2
+118,Male,Toulouse,Neutral,Beginner,2,5,29.6,11.4
+119,Female,Nantes,Satisfied,Intermediate,1,9,37.2,8.9
+120,Male,Paris,Very Satisfied,Expert,0,21,65.8,4.2
+120,Male,Paris,Very Satisfied,Expert,0,21,65.8,4.2
+120,Male,Paris,Very Satisfied,Expert,0,21,65.8,4.2
+
