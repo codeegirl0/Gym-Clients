@@ -1,5 +1,6 @@
 Gym Clients Data Analysis
 This project is designed to analyze gym member behaviors using various statistical analysis techniques. 
+
 📊 Analysis Types
 The project performs three levels of data exploration:
 •	Univariate Analysis: Examining individual variables .
@@ -35,6 +36,7 @@ ________________________________________
 •	process.py: The main entry point for the application.
 •	data/: Folder containing CSV files.
 •	scripts/: Modules for cleaning, joining and analysis.
+
 
 
 Happy analyzing!
